@@ -30,8 +30,7 @@ I developed ML systems for a number of usecases with current interest on distrib
 - Metadata Standards
 - Distributed ML
 - On-prem and Cloud workfows
-** Current Systems
-[![DOI](https://zenodo.org/badge/1002073205.svg)](https://doi.org/10.5281/zenodo.18813291)
+** Current Systems **
 ---
 
 ## 📫 Get in Touch
