@@ -1,9 +1,10 @@
 # Michael Ochola
 
-**Data science | Machine Learning | Computer Science**
+**Data science | Machine Learning | OMOP Workflows**
 
 Hi there 👋  
-I'm a Data scientist and Software Architect.
+I'm a Data scientist and Software Architect.I specialize in health platform engineering supporting both cloud and on-premise architectures.
+I have designed software systems and performed advanced data analysis on healthcare data, with a focus on OMOP Common Data Model workflows and dynamic and scalable pipelines.
 
 ---
 
