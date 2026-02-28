@@ -18,15 +18,16 @@ I'm a Data scientist and Software Architect.
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- R  
 - Bash
+- R  
 - Python
+- C++
 
 **Data Engineering and Machine Learning**
 - Distributed data systems  
 - Metadata Standards
 - Distributed ML
-- On-prem and Cloud Deployment
+- On-prem and Cloud workfows
 
 ---
 
