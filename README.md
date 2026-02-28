@@ -13,7 +13,7 @@ I developed ML systems for a number of usecases with current interest on distrib
 - Data Standards
 - Data Harmonization
 - Machine Learning
-- Infrastructure
+- Data Infrastructure
 
 ---
 
@@ -25,7 +25,7 @@ I developed ML systems for a number of usecases with current interest on distrib
 - Python
 - C++
 
-**Data Engineering and Machine Learning**
+**📈Data Engineering and Machine Learning**
 - Distributed data systems  
 - Metadata Standards
 - Distributed ML
@@ -35,4 +35,4 @@ I developed ML systems for a number of usecases with current interest on distrib
 
 ## 📫 Get in Touch
 - 📧 Email: kochollamikes@gmail.com | mochola@aphrc.org  
-- 💼 LinkedIn: *(https://www.linkedin.com/in/michael-ochola-79312a8a/)*  
+- 💼 [LinkedIn]: (https://www.linkedin.com/in/michael-ochola-79312a8a/)
