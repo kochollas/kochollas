@@ -5,6 +5,7 @@
 Hi there 👋  
 I'm a Data scientist and Software Architect.I specialize in health platform engineering supporting both cloud and on-premise architectures.
 I have designed software systems and performed advanced data analysis on healthcare data, with a focus on OMOP Common Data Model workflows and dynamic and scalable pipelines.
+I developed ML systems for a number of usecases with current interest on distributed ML
 
 ---
 
