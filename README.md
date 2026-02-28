@@ -1,16 +1,35 @@
-## Hi there 👋
+# Michael Landi
 
-<!--
-**kochollas/kochollas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data science | Machine Learning | Computer Science**
 
-Here are some ideas to get you started:
+Hi there 👋  
+I'm a Data scientist and Software Architect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+- Data Standards
+- Data Harmonization
+- Machine Learning
+- Infrastructure
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- R  
+- Bash
+- Python
+
+**Data Engineering and Machine Learning**
+- Distributed data systems  
+- Metadata Standards
+- Distributed ML
+- On-prem and Cloud Deployment
+
+---
+
+## 📫 Get in Touch
+- 📧 Email: kochollamikes@gmail.com | mochola@aphrc.org  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/michael-ochola-79312a8a/)*  
