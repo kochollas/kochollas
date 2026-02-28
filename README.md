@@ -1,4 +1,4 @@
-# Michael Landi
+# Michael Ochola
 
 **Data science | Machine Learning | Computer Science**
 
