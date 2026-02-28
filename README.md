@@ -15,9 +15,9 @@ I'm a Data scientist and Software Architect.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-**Programming Languages**
+**💻 Programming Languages**
 - Bash
 - R  
 - Python
