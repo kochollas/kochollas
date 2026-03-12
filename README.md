@@ -4,16 +4,16 @@
 
 Hi there 👋  
 I'm a Data scientist and Software Architect.I specialize in health platform engineering supporting both cloud and on-premise architectures.
-I have designed software systems and performed advanced data analysis on healthcare data, with a focus on OMOP Common Data Model workflows and dynamic and scalable pipelines.
+I have designed software systems and performed advanced data pipelines on different data domains.Currently I mostly work with healthcare data, with a focus on data standards i.e DDIs and  OMOP Common Data Model workflows to enable dynamic and scalable pipelines.
 I developed ML systems for a number of usecases with current interest on distributed ML
 
 ---
 
 ## 🔬 Research Interests
-- Data Standards
-- Data Harmonization
-- Machine Learning
-- Data Infrastructure
+- Data Standards (DDIs, OMOP, FHIR, Croissant)
+- Data Harmonization ( Dynamic Pipelines )
+- Machine Learning ( AutoML, FEDML, ...)
+- Data Infrastructure (On-premise, Cloud)
 
 ---
 
@@ -21,9 +21,9 @@ I developed ML systems for a number of usecases with current interest on distrib
 
 **💻 Programming Languages**
 - Bash
-- R  
 - Python
-- C++
+- R
+- C++ 
 
 **📈Data Engineering and Machine Learning**
 - Distributed data systems  
